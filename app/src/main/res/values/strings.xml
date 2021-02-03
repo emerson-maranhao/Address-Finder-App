@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Busca Cep</string>
+    <string name="search_title">Busca Cep</string>
+
+    <string name="input_empty">Digite um parâmetro de busca</string>
+    <string name="internal_error">Erro Interno!</string>
+    <string name="bad_request">Ocorreu um erro!</string>
+    <string name="cep_not_found">Endereço não encontrado!</string>
+    <string name="input_value_search">Cep/Rua</string>
+    <string name="incorrect_size_zip_code">O CEP é formado por 8 digitos.</string>
+    <string name="incorrect_size_street">O nome da rua dever ser maior que 3 letras.</string>
+    <string name="cep">Cep:</string>
+    <string name="rua">Rua:</string>
+    <string name="bairro">Bairro:</string>
+    <string name="complemento">Complemento:</string>
+    <string name="apresentacao">Encontre aqui seu endereço.</string>
+    <string name="by_viacep">*Dados consultados em viacep.com.br</string>
+</resources>
